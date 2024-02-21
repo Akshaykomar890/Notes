@@ -8,5 +8,10 @@ Customizable Note Management: Enjoy the flexibility to organize and customize yo
 Data Persistence: Benefit from the reliability of SQL databases for data persistence, ensuring that your notes are securely stored and readily accessible.
 Scalable Architecture: Built with scalability in mind, this application's architecture allows for future enhancements and expansion to accommodate evolving needs.
 
-![WhatsApp Image 2024-02-21 at 10 41 10 AM (2)](https://github.com/Akshaykomar890/Notes/assets/146421342/014fd2ed-0c91-4e38-bd24-d24f1e93dea1)
+![WhatsApp Image 2024-02-21 at 10 41 10 AM (1)](https://github.com/Akshaykomar890/Notes/assets/146421342/29d9edf8-bc60-4e89-ac6c-a157eb1256d9)
+![WhatsApp Image 2024-02-21 at 10 41 10 AM (2)](https://github.com/Akshaykomar890/Notes/assets/146421342/4d506c48-34e0-4f73-8e22-b7985fe91a22)
+![WhatsApp Image 2024-02-21 at 10 41 10 AM](https://github.com/Akshaykomar890/Notes/assets/146421342/7ee8a6b2-b31f-4cbf-bfb4-b3e3da45bb64)
+
+
+
 

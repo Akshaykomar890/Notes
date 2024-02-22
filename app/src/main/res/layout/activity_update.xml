@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddNotes"
+    android:layout_margin="10dp">
+
+    <LinearLayout
+        android:id="@+id/AddLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Edit Note"
+            android:textStyle="bold"
+            android:textColor="@color/pink"
+            android:textSize="24sp"
+            android:padding="10dp"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_below="@id/AddLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+        <EditText
+            android:id="@+id/enterTitleUpdate"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/border_pink"
+            android:hint="Enter the title"
+            android:padding="12dp"
+            android:textSize="20sp"/>
+        <EditText
+            android:id="@+id/enterContentUpdate"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/border_pink"
+            android:hint="Enter the description"
+            android:padding="16dp"
+            android:textSize="18sp"
+            android:gravity="top"/>
+        <Button
+            android:id="@+id/saveBtnUpdate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Update"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

@@ -1,4 +1,5 @@
-Welcome to the Kotlin Notes App repository! 
+Welcome to the Notes App 
+
 This project showcases a powerful yet straightforward application built entirely in Kotlin, leveraging CRUD (Create, Read, Update, Delete) operations with SQL for efficient data management.
 
 ◉Features:
